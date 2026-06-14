@@ -368,7 +368,7 @@ body {
 /* Mobile: smaller opened card */
 @media (max-width: 520px) {
     .envelope.open .letter-card {
-        height: 170%;
+        height: 160%;
     }
     .envelope.open .letter-border {
         padding: 18px 12px;
