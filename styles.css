@@ -185,7 +185,7 @@ body {
         height: calc(92vw * 0.65);
     }
     .envelope-wrapper.opened {
-        margin-bottom: 55vw;
+        margin-bottom: 85vw;
     }
 }
 
